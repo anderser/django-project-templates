@@ -3,3 +3,6 @@
 src/django_project_templates.egg-info
 build
 dist
+.project
+.pydevproject
+.settings
